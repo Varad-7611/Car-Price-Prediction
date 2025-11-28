@@ -60,7 +60,6 @@ Other possible models:
 
 ## 📦 Installation
 
-
 Clone the repository:
 
 ```bash
